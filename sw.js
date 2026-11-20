@@ -1,5 +1,5 @@
 /* FitTrack offline app shell. Version the cache name when shipping a new release. */
-const CACHE_NAME = 'fittrack-pwa-v2';
+const CACHE_NAME = 'fittrack-pwa-v3';
 const APP_SHELL = [
   './',
   './index.html',
